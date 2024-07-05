@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Bvr8t3gLor0=",
+  "dgSpecHash": "qFhElV7W916ojVJNZwlniyKXueiL4LeanhVnuP3/OSm1At5paCp2ClPsbHOr60sLDkp5infHXVzhrWLGUk+hig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ryan\\source\\repos\\CSS-playground\\CSS-playground.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Brenden\\Source\\Repos\\CSS-playground_techsystech\\CSS-playground.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brenden\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.10\\microsoft.windowsdesktop.app.ref.6.0.10.nupkg.sha512"
+  ],
   "logs": []
 }
